@@ -1,0 +1,12 @@
+{
+    "Version":      "1.0.0",   
+    "dev":{        
+        "logglyKey":    "e0a36639-e128-4e7e-b594-c7a5621c1d6f"        
+    },
+     "qa1":{       
+        "logglyKey":    "e0a36639-e128-4e7e-b594-c7a5621c1d6f"       
+    },
+     "prod":{       
+        "logglyKey":    "e0a36639-e128-4e7e-b594-c7a5621c1d6f"      
+    }
+}

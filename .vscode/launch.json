@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch",
+            "type": "go",
+            "request": "launch",
+            "mode": "debug",
+            "remotePath": "",
+            "port": 2345,
+            "host": "127.0.0.1",
+            "program": "C:/projects/Go/ms-gocore/src/github.com/elephant-insurance/ms-gocore",
+            "env": {},
+            "args": [],
+            "showLog": true
+        }
+    ]
+}
