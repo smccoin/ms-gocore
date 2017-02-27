@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	log "github.com/Sirupsen/logrus"
-	cfg "github.com/elephant-insurance/go-utils/config"
+	cfg "github.com/smccoin/ms-gocore/config"
 
 	loggly "github.com/sebest/logrusly"
 )
